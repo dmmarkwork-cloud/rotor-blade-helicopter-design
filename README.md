@@ -1,4 +1,4 @@
-# Rotor Blade Element Theory in Helicopter Design
+# Rotor Blade Helicopter Design
 
 CAD and technical drawing package for a two-blade helicopter rotor (71.10 in overall diameter), developed as part of an aeronautical engineering coursework project applying blade element theory to a fully modeled and drafted rotor geometry.
 
